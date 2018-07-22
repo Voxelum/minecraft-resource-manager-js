@@ -1,0 +1,19 @@
+{
+  "name": "minecraft-resource-manager",
+  "version": "0.0.1",
+  "description": "A simple minecraft resource manager",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "jszip": "^3.1.5"
+  },
+  "devDependencies": {
+    "typescript": "2.9.2",
+    "@types/node": "^10.3.5",
+    "@types/jszip": "^3.1.4"
+  },
+  "author": "cijhn@hotmail.com",
+  "license": "MIT"
+}
